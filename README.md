@@ -1,6 +1,5 @@
 # WordPres Show Postmeta
 
-I ran into a situation where I was trying to import postmeta and was not sure it was transferring correctly. 
-I wrore this plugin to cut down the steps to look up a post's postmeta. With this plugin enabled you can view the postmeta directly on the post edit. 
+I ran into a situation where it was helpful to look at post meta while editing posts. This will output post meta on the classic edit post page. 
 
-I am considering adding the ability to edit postmeta from the editor as well. 
+**Not written for production.**
